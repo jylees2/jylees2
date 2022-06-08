@@ -2,14 +2,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JuyoungLee&fontSize=90)
 
 # 💌 Contact Me Now!
-- jylees2@gmail.com
+- jyleedev@gmail.com
 
 # Educational Background
 - graduated from `Chonnam National University` 👨‍🎓
 - majored in `Industrial Engineering` 📊
 - minored in `Software Engineering`💻
 
-# Jylees2
+# Jylee
 <a href="https://velog.io/@jyleedev"><img src="https://img.shields.io/badge/tech blog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
 
 <a href="https://blog.naver.com/lovewouldnever"><img src="https://img.shields.io/badge/study blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
