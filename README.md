@@ -1,29 +1,3 @@
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JuyoungLee&fontSize=90)
-
-# 💌 Contact Me Now!
-- jyleedev@gmail.com
-
-# Educational Background
-- graduated from `Chonnam National University` 👨‍🎓
-- majored in `Industrial Engineering` 📊
-- minored in `Software Engineering`💻
-
-# Jylee
-<a href="https://velog.io/@jyleedev"><img src="https://img.shields.io/badge/tech blog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
-
-<a href="https://blog.naver.com/lovewouldnever"><img src="https://img.shields.io/badge/study blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
-
-<a href="https://irradiated-mailman-875.notion.site/cae90792da464df887d7a2aff29b7c54">🏃‍♀️ 인프런 강의 수료증</a>
-
-# Backend Developer
-## 👨‍💻 Portfolio
-#### 웹 개발자 커뮤니티 & 인강 사이트 Helpring
-- `스프링 부트` `스프링 시큐리티` `스프링 데이터 JPA` `타임리프`
-- <a href="https://github.com/jylees2/Helpring">깃헙</a>
-- <a href="https://velog.io/@jyleedev/series/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EA%B0%95%EC%9D%98-%EC%82%AC%EC%9D%B4%ED%8A%B8-Helpring">개발 과정</a>
-
-
 ## 🛠Tech Stack🛠
 **_that I've used at least once 😋_**
 
